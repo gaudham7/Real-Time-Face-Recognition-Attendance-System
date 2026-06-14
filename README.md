@@ -1,6 +1,6 @@
-# Facial Attendance System
+Facial Attendance System
 
-## 📌 Overview
+Overview
 
 The Facial Attendance System is a Python-based computer vision project that automates attendance marking using facial recognition. The system captures student faces, trains face data, recognizes faces in real time through a webcam, and records attendance with date and time stamps.
 
@@ -8,7 +8,7 @@ This project was developed to gain hands-on experience in computer vision, image
 
 ---
 
-## ✨ Features
+Features
 
 * Face Registration
 * Automatic Face Image Capture
@@ -21,7 +21,7 @@ This project was developed to gain hands-on experience in computer vision, image
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 * Python
 * OpenCV
@@ -31,7 +31,7 @@ This project was developed to gain hands-on experience in computer vision, image
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 
 ```text
 Facial-Attendance-System/
@@ -51,9 +51,9 @@ Facial-Attendance-System/
 
 ---
 
-## ⚙️ How It Works
+How It Works
 
-### Step 1: Register Student
+Step 1: Register Student
 
 Run:
 
@@ -63,7 +63,7 @@ python register.py
 
 The system captures multiple face images and stores them under the student's name.
 
-### Step 2: Train Face Data
+Step 2: Train Face Data
 
 Run:
 
@@ -73,7 +73,7 @@ python train.py
 
 The system processes all registered face images and prepares them for recognition.
 
-### Step 3: Start Attendance System
+Step 3: Start Attendance System
 
 Run:
 
@@ -85,7 +85,7 @@ The webcam opens, detects faces, recognizes registered users, and records attend
 
 ---
 
-## 📊 Attendance Output
+Attendance Output
 
 Example:
 
@@ -96,24 +96,23 @@ Preetha,2026-06-12,10:31:02
 ```
 
 ---
+Screenshots
 
-## 📸 Screenshots
-
-### Face Recognition
+Face Recognition
 
 ![Face Recognition](screenshots/recognition.png)
 
-### Attendance Record
+Attendance Record
 
 ![Attendance Record](screenshots/attendance.png)
 
-### Project Structure
+Project Structure
 
 ![Project Structure](screenshots/project-structure.png)
 
 ---
 
-## 🚀 Future Enhancements
+Future Enhancements
 
 * GUI using Tkinter
 * Database Integration (SQLite/MySQL)
@@ -124,7 +123,7 @@ Preetha,2026-06-12,10:31:02
 
 ---
 
-## 🎯 Learning Outcomes
+Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -138,7 +137,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+Author
 
 **Cenjel Ajeika**
 

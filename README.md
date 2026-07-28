@@ -83,24 +83,10 @@ python attendance.py
 
 The webcam opens, detects faces, recognizes registered users, and records attendance automatically.
 
----
 
-Attendance Output
-
-Example:
-
-```csv
-Name,Date,Time
-Cenjel,2026-06-12,10:30:15
-Preetha,2026-06-12,10:31:02
-```
 
 ---
 Screenshots
-
-Face Recognition
-
-![Face Recognition](screenshots/recognition.png)
 
 Attendance Record
 
@@ -139,11 +125,12 @@ Through this project, I gained practical experience in:
 
 Author
 
-**Cenjel Ajeika**
+**Goutham Sankar**
 
 B.Tech Computer Science and Engineering Student
 
-GitHub: https://github.com/yess-32
+GitHub:https://github.com/gaudham7
 
-LinkedIn: https://www.linkedin.com/in/cenjelajeikam/
+LinkedIn: www.linkedin.com/in/goutham-sankar-9b5878330
+# Real-Time-Face-Recognition-Attendance-System
 # Real-Time-Face-Recognition-Attendance-System

@@ -122,20 +122,6 @@ Through this project, I gained practical experience in:
 * Git and GitHub Version Control
 
 ---
-## 📸 Project Screenshots
-
-### Face Registration
-![Face Registration](screenshots/registration.png)
-
-### Model Training
-![Training](screenshots/training.png)
-
-### Face Recognition
-![Recognition](screenshots/recognition.png)
-
-### Attendance Record
-![Attendance](screenshots/attendance.png)
-
 Author
 
 **Goutham Sankar**

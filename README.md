@@ -122,15 +122,19 @@ Through this project, I gained practical experience in:
 * Git and GitHub Version Control
 
 ---
-<h2>📸 Project Screenshots</h2>
+## 📸 Project Screenshots
 
-<p align="center">
-  <img src="attendence.png" width="700">
-</p>
+### Face Registration
+![Face Registration](screenshots/registration.png)
 
-<p align="center">
-  <img src="screenshots/recognition.png" width="700">
-</p>
+### Model Training
+![Training](screenshots/training.png)
+
+### Face Recognition
+![Recognition](screenshots/recognition.png)
+
+### Attendance Record
+![Attendance](screenshots/attendance.png)
 
 Author
 

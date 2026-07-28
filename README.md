@@ -122,6 +122,15 @@ Through this project, I gained practical experience in:
 * Git and GitHub Version Control
 
 ---
+<h2>📸 Project Screenshots</h2>
+
+<p align="center">
+  <img src="screenshots/registration.png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/recognition.png" width="700">
+</p>
 
 Author
 

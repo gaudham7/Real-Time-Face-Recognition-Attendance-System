@@ -125,7 +125,7 @@ Through this project, I gained practical experience in:
 <h2>📸 Project Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/registration.png" width="700">
+  <img src="attendence.png" width="700">
 </p>
 
 <p align="center">
